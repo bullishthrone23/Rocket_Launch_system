@@ -1,0 +1,4 @@
+Enter the number of rocket stages: 
+--- STAGE 1 ---
+Enter dry mass (kg): Enter fuel mass (kg): Enter thrust (N): Enter burn time (s): Enter the TARGET PITCH (deg): Enter the PITCH CHANGE RATE (deg/s): 
+Choose mission: 1 = Orbit, 2 = Escape: Enter the simulation time (s): 
